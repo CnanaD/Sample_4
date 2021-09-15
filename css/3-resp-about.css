@@ -1,0 +1,6 @@
+@media screen and(min-width:1400px){}; /*XXL*/
+@media screen and(min-width:1200px) and (max-width:1400px){};/*XL*/
+@media screen and(min-width:992px) and (max-width:1200px){};/*LG*/
+@media screen and(min-width:768px) and (max-width:992px){};/*MD*/
+@media screen and(min-width:576px) and (max-width:768px){};/*SM*/
+@media screen and(max-width:576px){};/*XS*/
